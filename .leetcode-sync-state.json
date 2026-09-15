@@ -1,6 +1,5 @@
 {
   "backfill_plan": {
-    "1995838725": "2026-09-15T17:00:36+0300",
     "1996640732": "2026-09-15T18:02:10+0300",
     "1996661455": "2026-09-15T20:22:59+0300",
     "1997340508": "2026-09-17T14:53:10+0300",
@@ -32,9 +31,20 @@
     "2170689498": "2026-10-12T19:00:09+0300"
   },
   "processed_submission_ids": [
-    "1994987020"
+    "1994987020",
+    "1995838725"
   ],
   "solutions": {
+    "first-unique-character-in-a-string": {
+      "commit_date": "2026-09-15T17:00:36+0300",
+      "difficulty": "Easy",
+      "frontend_id": "387",
+      "lang": "cpp",
+      "path": "solutions/0387-first-unique-character-in-a-string.cpp",
+      "slug": "first-unique-character-in-a-string",
+      "submission_id": "1995838725",
+      "title": "First Unique Character in a String"
+    },
     "palindrome-linked-list": {
       "commit_date": "2026-09-15T12:17:43+0300",
       "difficulty": "Easy",

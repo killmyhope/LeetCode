@@ -1,6 +1,5 @@
 {
   "backfill_plan": {
-    "1997340508": "2026-09-17T14:53:10+0300",
     "1997350772": "2026-09-18T09:16:04+0300",
     "1997531925": "2026-09-21T13:31:27+0300",
     "1998207418": "2026-09-21T15:26:29+0300",
@@ -32,7 +31,8 @@
     "1994987020",
     "1995838725",
     "1996640732",
-    "1996661455"
+    "1996661455",
+    "1997340508"
   ],
   "solutions": {
     "first-unique-character-in-a-string": {
@@ -64,6 +64,16 @@
       "slug": "range-sum-of-bst",
       "submission_id": "1996661455",
       "title": "Range Sum of BST"
+    },
+    "reverse-words-in-a-string-iii": {
+      "commit_date": "2026-09-17T14:53:10+0300",
+      "difficulty": "Easy",
+      "frontend_id": "557",
+      "lang": "cpp",
+      "path": "solutions/0557-reverse-words-in-a-string-iii.cpp",
+      "slug": "reverse-words-in-a-string-iii",
+      "submission_id": "1997340508",
+      "title": "Reverse Words in a String III"
     },
     "rotating-the-box": {
       "commit_date": "2026-09-15T18:02:10+0300",

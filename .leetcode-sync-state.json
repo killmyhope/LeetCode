@@ -1,6 +1,5 @@
 {
   "backfill_plan": {
-    "1997350772": "2026-09-18T09:16:04+0300",
     "1997531925": "2026-09-21T13:31:27+0300",
     "1998207418": "2026-09-21T15:26:29+0300",
     "2046204261": "2026-09-21T17:22:53+0300",
@@ -32,7 +31,8 @@
     "1995838725",
     "1996640732",
     "1996661455",
-    "1997340508"
+    "1997340508",
+    "1997350772"
   ],
   "solutions": {
     "first-unique-character-in-a-string": {
@@ -64,6 +64,16 @@
       "slug": "range-sum-of-bst",
       "submission_id": "1996661455",
       "title": "Range Sum of BST"
+    },
+    "reverse-string-ii": {
+      "commit_date": "2026-09-18T09:16:04+0300",
+      "difficulty": "Easy",
+      "frontend_id": "541",
+      "lang": "cpp",
+      "path": "solutions/0541-reverse-string-ii.cpp",
+      "slug": "reverse-string-ii",
+      "submission_id": "1997350772",
+      "title": "Reverse String II"
     },
     "reverse-words-in-a-string-iii": {
       "commit_date": "2026-09-17T14:53:10+0300",

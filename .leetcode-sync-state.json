@@ -1,6 +1,5 @@
 {
   "backfill_plan": {
-    "1997531925": "2026-09-21T13:31:27+0300",
     "1998207418": "2026-09-21T15:26:29+0300",
     "2046204261": "2026-09-21T17:22:53+0300",
     "2052869231": "2026-09-22T11:39:43+0300",
@@ -32,7 +31,8 @@
     "1996640732",
     "1996661455",
     "1997340508",
-    "1997350772"
+    "1997350772",
+    "1997531925"
   ],
   "solutions": {
     "first-unique-character-in-a-string": {
@@ -44,6 +44,16 @@
       "slug": "first-unique-character-in-a-string",
       "submission_id": "1995838725",
       "title": "First Unique Character in a String"
+    },
+    "jump-game-ix": {
+      "commit_date": "2026-09-21T13:31:27+0300",
+      "difficulty": "Medium",
+      "frontend_id": "3660",
+      "lang": "cpp",
+      "path": "solutions/3660-jump-game-ix.cpp",
+      "slug": "jump-game-ix",
+      "submission_id": "1997531925",
+      "title": "Jump Game IX"
     },
     "palindrome-linked-list": {
       "commit_date": "2026-09-15T12:17:43+0300",

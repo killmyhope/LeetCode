@@ -1,6 +1,5 @@
 {
   "backfill_plan": {
-    "1998207418": "2026-09-21T15:26:29+0300",
     "2046204261": "2026-09-21T17:22:53+0300",
     "2052869231": "2026-09-22T11:39:43+0300",
     "2053991635": "2026-09-22T12:08:11+0300",
@@ -32,9 +31,20 @@
     "1996661455",
     "1997340508",
     "1997350772",
-    "1997531925"
+    "1997531925",
+    "1998207418"
   ],
   "solutions": {
+    "add-strings": {
+      "commit_date": "2026-09-21T15:26:29+0300",
+      "difficulty": "Easy",
+      "frontend_id": "415",
+      "lang": "cpp",
+      "path": "solutions/0415-add-strings.cpp",
+      "slug": "add-strings",
+      "submission_id": "1998207418",
+      "title": "Add Strings"
+    },
     "first-unique-character-in-a-string": {
       "commit_date": "2026-09-15T17:00:36+0300",
       "difficulty": "Easy",

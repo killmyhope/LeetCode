@@ -1,6 +1,5 @@
 {
   "backfill_plan": {
-    "2046204261": "2026-09-21T17:22:53+0300",
     "2052869231": "2026-09-22T11:39:43+0300",
     "2053991635": "2026-09-22T12:08:11+0300",
     "2054605206": "2026-09-22T13:09:06+0300",
@@ -32,7 +31,8 @@
     "1997340508",
     "1997350772",
     "1997531925",
-    "1998207418"
+    "1998207418",
+    "2046204261"
   ],
   "solutions": {
     "add-strings": {
@@ -64,6 +64,16 @@
       "slug": "jump-game-ix",
       "submission_id": "1997531925",
       "title": "Jump Game IX"
+    },
+    "merge-intervals": {
+      "commit_date": "2026-09-21T17:22:53+0300",
+      "difficulty": "Medium",
+      "frontend_id": "56",
+      "lang": "cpp",
+      "path": "solutions/0056-merge-intervals.cpp",
+      "slug": "merge-intervals",
+      "submission_id": "2046204261",
+      "title": "Merge Intervals"
     },
     "palindrome-linked-list": {
       "commit_date": "2026-09-15T12:17:43+0300",

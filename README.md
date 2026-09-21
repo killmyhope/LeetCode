@@ -3,10 +3,11 @@
 <!-- leetcode-sync:start -->
 ## LeetCode solutions
 
-Solved problems: **8**
+Solved problems: **9**
 
 | # | Title | Difficulty | Code |
 | --- | --- | --- | --- |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [cpp](solutions/0056-merge-intervals.cpp) |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | [cpp](solutions/0234-palindrome-linked-list.cpp) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | [cpp](solutions/0387-first-unique-character-in-a-string.cpp) |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | Easy | [cpp](solutions/0415-add-strings.cpp) |

@@ -3,7 +3,7 @@
 <!-- leetcode-sync:start -->
 ## LeetCode solutions
 
-Solved problems: **9**
+Solved problems: **10**
 
 | # | Title | Difficulty | Code |
 | --- | --- | --- | --- |
@@ -14,6 +14,7 @@ Solved problems: **9**
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | Easy | [cpp](solutions/0541-reverse-string-ii.cpp) |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy | [cpp](solutions/0557-reverse-words-in-a-string-iii.cpp) |
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | Easy | [cpp](solutions/0938-range-sum-of-bst.cpp) |
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | [cpp](solutions/0977-squares-of-a-sorted-array.cpp) |
 | 1861 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | Medium | [cpp](solutions/1861-rotating-the-box.cpp) |
 | 3660 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) | Medium | [cpp](solutions/3660-jump-game-ix.cpp) |
 <!-- leetcode-sync:end -->

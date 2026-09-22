@@ -1,6 +1,5 @@
 {
   "backfill_plan": {
-    "2054605206": "2026-09-22T13:09:06+0300",
     "2054865999": "2026-09-25T11:26:58+0300",
     "2055870124": "2026-09-27T20:17:15+0300",
     "2157247320": "2026-09-28T16:10:30+0300",
@@ -32,7 +31,8 @@
     "1998207418",
     "2046204261",
     "2052869231",
-    "2053991635"
+    "2053991635",
+    "2054605206"
   ],
   "solutions": {
     "add-strings": {
@@ -44,6 +44,16 @@
       "slug": "add-strings",
       "submission_id": "1998207418",
       "title": "Add Strings"
+    },
+    "find-a-safe-walk-through-a-grid": {
+      "commit_date": "2026-09-22T13:09:06+0300",
+      "difficulty": "Medium",
+      "frontend_id": "3286",
+      "lang": "cpp",
+      "path": "solutions/3286-find-a-safe-walk-through-a-grid.cpp",
+      "slug": "find-a-safe-walk-through-a-grid",
+      "submission_id": "2054605206",
+      "title": "Find a Safe Walk Through a Grid"
     },
     "first-unique-character-in-a-string": {
       "commit_date": "2026-09-15T17:00:36+0300",

@@ -1,6 +1,5 @@
 {
   "backfill_plan": {
-    "2053991635": "2026-09-22T12:08:11+0300",
     "2054605206": "2026-09-22T13:09:06+0300",
     "2054865999": "2026-09-25T11:26:58+0300",
     "2055870124": "2026-09-27T20:17:15+0300",
@@ -32,7 +31,8 @@
     "1997531925",
     "1998207418",
     "2046204261",
-    "2052869231"
+    "2052869231",
+    "2053991635"
   ],
   "solutions": {
     "add-strings": {
@@ -54,6 +54,16 @@
       "slug": "first-unique-character-in-a-string",
       "submission_id": "1995838725",
       "title": "First Unique Character in a String"
+    },
+    "is-subsequence": {
+      "commit_date": "2026-09-22T12:08:11+0300",
+      "difficulty": "Easy",
+      "frontend_id": "392",
+      "lang": "cpp",
+      "path": "solutions/0392-is-subsequence.cpp",
+      "slug": "is-subsequence",
+      "submission_id": "2053991635",
+      "title": "Is Subsequence"
     },
     "jump-game-ix": {
       "commit_date": "2026-09-21T13:31:27+0300",

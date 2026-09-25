@@ -1,6 +1,5 @@
 {
   "backfill_plan": {
-    "2054865999": "2026-09-25T11:26:58+0300",
     "2055870124": "2026-09-27T20:17:15+0300",
     "2157247320": "2026-09-28T16:10:30+0300",
     "2157263224": "2026-09-28T20:02:01+0300",
@@ -32,7 +31,8 @@
     "2046204261",
     "2052869231",
     "2053991635",
-    "2054605206"
+    "2054605206",
+    "2054865999"
   ],
   "solutions": {
     "add-strings": {
@@ -94,6 +94,16 @@
       "slug": "merge-intervals",
       "submission_id": "2046204261",
       "title": "Merge Intervals"
+    },
+    "network-recovery-pathways": {
+      "commit_date": "2026-09-25T11:26:58+0300",
+      "difficulty": "Hard",
+      "frontend_id": "3620",
+      "lang": "cpp",
+      "path": "solutions/3620-network-recovery-pathways.cpp",
+      "slug": "network-recovery-pathways",
+      "submission_id": "2054865999",
+      "title": "Network Recovery Pathways"
     },
     "palindrome-linked-list": {
       "commit_date": "2026-09-15T12:17:43+0300",

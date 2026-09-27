@@ -1,6 +1,5 @@
 {
   "backfill_plan": {
-    "2055870124": "2026-09-27T20:17:15+0300",
     "2157247320": "2026-09-28T16:10:30+0300",
     "2157263224": "2026-09-28T20:02:01+0300",
     "2157287619": "2026-09-29T10:04:37+0300",
@@ -32,7 +31,8 @@
     "2052869231",
     "2053991635",
     "2054605206",
-    "2054865999"
+    "2054865999",
+    "2055870124"
   ],
   "solutions": {
     "add-strings": {
@@ -94,6 +94,16 @@
       "slug": "merge-intervals",
       "submission_id": "2046204261",
       "title": "Merge Intervals"
+    },
+    "minimum-score-of-a-path-between-two-cities": {
+      "commit_date": "2026-09-27T20:17:15+0300",
+      "difficulty": "Medium",
+      "frontend_id": "2492",
+      "lang": "cpp",
+      "path": "solutions/2492-minimum-score-of-a-path-between-two-cities.cpp",
+      "slug": "minimum-score-of-a-path-between-two-cities",
+      "submission_id": "2055870124",
+      "title": "Minimum Score of a Path Between Two Cities"
     },
     "network-recovery-pathways": {
       "commit_date": "2026-09-25T11:26:58+0300",

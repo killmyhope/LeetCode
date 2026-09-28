@@ -1,6 +1,5 @@
 {
   "backfill_plan": {
-    "2157247320": "2026-09-28T16:10:30+0300",
     "2157263224": "2026-09-28T20:02:01+0300",
     "2157287619": "2026-09-29T10:04:37+0300",
     "2158958171": "2026-09-29T10:46:16+0300",
@@ -32,7 +31,8 @@
     "2053991635",
     "2054605206",
     "2054865999",
-    "2055870124"
+    "2055870124",
+    "2157247320"
   ],
   "solutions": {
     "add-strings": {
@@ -174,6 +174,16 @@
       "slug": "squares-of-a-sorted-array",
       "submission_id": "2052869231",
       "title": "Squares of a Sorted Array"
+    },
+    "two-sum": {
+      "commit_date": "2026-09-28T16:10:30+0300",
+      "difficulty": "Easy",
+      "frontend_id": "1",
+      "lang": "cpp",
+      "path": "solutions/0001-two-sum.cpp",
+      "slug": "two-sum",
+      "submission_id": "2157247320",
+      "title": "Two Sum"
     }
   },
   "username": "killmyhope",

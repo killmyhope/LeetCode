@@ -1,6 +1,5 @@
 {
   "backfill_plan": {
-    "2157263224": "2026-09-28T20:02:01+0300",
     "2157287619": "2026-09-29T10:04:37+0300",
     "2158958171": "2026-09-29T10:46:16+0300",
     "2161070707": "2026-09-30T09:35:55+0300",
@@ -32,7 +31,8 @@
     "2054605206",
     "2054865999",
     "2055870124",
-    "2157247320"
+    "2157247320",
+    "2157263224"
   ],
   "solutions": {
     "add-strings": {
@@ -124,6 +124,16 @@
       "slug": "palindrome-linked-list",
       "submission_id": "1994987020",
       "title": "Palindrome Linked List"
+    },
+    "palindrome-number": {
+      "commit_date": "2026-09-28T20:02:01+0300",
+      "difficulty": "Easy",
+      "frontend_id": "9",
+      "lang": "cpp",
+      "path": "solutions/0009-palindrome-number.cpp",
+      "slug": "palindrome-number",
+      "submission_id": "2157263224",
+      "title": "Palindrome Number"
     },
     "range-sum-of-bst": {
       "commit_date": "2026-09-15T20:22:59+0300",

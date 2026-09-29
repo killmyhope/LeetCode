@@ -1,6 +1,5 @@
 {
   "backfill_plan": {
-    "2158958171": "2026-09-29T10:46:16+0300",
     "2161070707": "2026-09-30T09:35:55+0300",
     "2162429265": "2026-09-30T11:16:26+0300",
     "2162856645": "2026-09-30T17:00:07+0300",
@@ -32,7 +31,8 @@
     "2055870124",
     "2157247320",
     "2157263224",
-    "2157287619"
+    "2157287619",
+    "2158958171"
   ],
   "solutions": {
     "add-strings": {
@@ -84,6 +84,16 @@
       "slug": "jump-game-ix",
       "submission_id": "1997531925",
       "title": "Jump Game IX"
+    },
+    "longest-common-prefix": {
+      "commit_date": "2026-09-29T10:46:16+0300",
+      "difficulty": "Easy",
+      "frontend_id": "14",
+      "lang": "cpp",
+      "path": "solutions/0014-longest-common-prefix.cpp",
+      "slug": "longest-common-prefix",
+      "submission_id": "2158958171",
+      "title": "Longest Common Prefix"
     },
     "merge-intervals": {
       "commit_date": "2026-09-21T17:22:53+0300",

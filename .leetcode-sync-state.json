@@ -1,6 +1,5 @@
 {
   "backfill_plan": {
-    "2162429265": "2026-09-30T11:16:26+0300",
     "2162856645": "2026-09-30T17:00:07+0300",
     "2164707818": "2026-10-01T09:25:49+0300",
     "2165733029": "2026-10-01T13:57:17+0300",
@@ -32,7 +31,8 @@
     "2157263224",
     "2157287619",
     "2158958171",
-    "2161070707"
+    "2161070707",
+    "2162429265"
   ],
   "solutions": {
     "add-strings": {
@@ -224,6 +224,16 @@
       "slug": "two-sum",
       "submission_id": "2157247320",
       "title": "Two Sum"
+    },
+    "valid-parenthesis-string": {
+      "commit_date": "2026-09-30T11:16:26+0300",
+      "difficulty": "Medium",
+      "frontend_id": "678",
+      "lang": "cpp",
+      "path": "solutions/0678-valid-parenthesis-string.cpp",
+      "slug": "valid-parenthesis-string",
+      "submission_id": "2162429265",
+      "title": "Valid Parenthesis String"
     }
   },
   "username": "killmyhope",

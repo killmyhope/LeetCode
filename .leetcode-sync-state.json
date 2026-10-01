@@ -1,6 +1,5 @@
 {
   "backfill_plan": {
-    "2165733029": "2026-10-01T13:57:17+0300",
     "2166453787": "2026-10-02T16:10:44+0300",
     "2167661543": "2026-10-04T10:09:55+0300",
     "2168616242": "2026-10-04T16:42:49+0300",
@@ -32,7 +31,8 @@
     "2161070707",
     "2162429265",
     "2162856645",
-    "2164707818"
+    "2164707818",
+    "2165733029"
   ],
   "solutions": {
     "add-strings": {
@@ -174,6 +174,16 @@
       "slug": "range-sum-of-bst",
       "submission_id": "1996661455",
       "title": "Range Sum of BST"
+    },
+    "remove-invalid-parentheses": {
+      "commit_date": "2026-10-01T13:57:17+0300",
+      "difficulty": "Hard",
+      "frontend_id": "301",
+      "lang": "cpp",
+      "path": "solutions/0301-remove-invalid-parentheses.cpp",
+      "slug": "remove-invalid-parentheses",
+      "submission_id": "2165733029",
+      "title": "Remove Invalid Parentheses"
     },
     "reverse-string-ii": {
       "commit_date": "2026-09-18T09:16:04+0300",

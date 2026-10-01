@@ -1,6 +1,5 @@
 {
   "backfill_plan": {
-    "2164707818": "2026-10-01T09:25:49+0300",
     "2165733029": "2026-10-01T13:57:17+0300",
     "2166453787": "2026-10-02T16:10:44+0300",
     "2167661543": "2026-10-04T10:09:55+0300",
@@ -32,7 +31,8 @@
     "2158958171",
     "2161070707",
     "2162429265",
-    "2162856645"
+    "2162856645",
+    "2164707818"
   ],
   "solutions": {
     "add-strings": {
@@ -114,6 +114,16 @@
       "slug": "merge-intervals",
       "submission_id": "2046204261",
       "title": "Merge Intervals"
+    },
+    "minimum-add-to-make-parentheses-valid": {
+      "commit_date": "2026-10-01T09:25:49+0300",
+      "difficulty": "Medium",
+      "frontend_id": "921",
+      "lang": "cpp",
+      "path": "solutions/0921-minimum-add-to-make-parentheses-valid.cpp",
+      "slug": "minimum-add-to-make-parentheses-valid",
+      "submission_id": "2164707818",
+      "title": "Minimum Add to Make Parentheses Valid"
     },
     "minimum-score-of-a-path-between-two-cities": {
       "commit_date": "2026-09-27T20:17:15+0300",

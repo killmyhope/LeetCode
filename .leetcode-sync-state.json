@@ -1,6 +1,5 @@
 {
   "backfill_plan": {
-    "2166453787": "2026-10-02T16:10:44+0300",
     "2167661543": "2026-10-04T10:09:55+0300",
     "2168616242": "2026-10-04T16:42:49+0300",
     "2169520200": "2026-10-05T09:51:21+0300",
@@ -32,7 +31,8 @@
     "2162429265",
     "2162856645",
     "2164707818",
-    "2165733029"
+    "2165733029",
+    "2166453787"
   ],
   "solutions": {
     "add-strings": {
@@ -184,6 +184,16 @@
       "slug": "remove-invalid-parentheses",
       "submission_id": "2165733029",
       "title": "Remove Invalid Parentheses"
+    },
+    "remove-outermost-parentheses": {
+      "commit_date": "2026-10-02T16:10:44+0300",
+      "difficulty": "Easy",
+      "frontend_id": "1021",
+      "lang": "cpp",
+      "path": "solutions/1021-remove-outermost-parentheses.cpp",
+      "slug": "remove-outermost-parentheses",
+      "submission_id": "2166453787",
+      "title": "Remove Outermost Parentheses"
     },
     "reverse-string-ii": {
       "commit_date": "2026-09-18T09:16:04+0300",

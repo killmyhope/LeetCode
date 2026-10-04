@@ -3,7 +3,7 @@
 <!-- leetcode-sync:start -->
 ## LeetCode solutions
 
-Solved problems: **24**
+Solved problems: **25**
 
 | # | Title | Difficulty | Code |
 | --- | --- | --- | --- |
@@ -26,6 +26,7 @@ Solved problems: **24**
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | Easy | [cpp](solutions/0938-range-sum-of-bst.cpp) |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | [cpp](solutions/0977-squares-of-a-sorted-array.cpp) |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | [cpp](solutions/1021-remove-outermost-parentheses.cpp) |
+| 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Medium | [cpp](solutions/1541-minimum-insertions-to-balance-a-parentheses-string.cpp) |
 | 1861 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | Medium | [cpp](solutions/1861-rotating-the-box.cpp) |
 | 2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | Medium | [cpp](solutions/2492-minimum-score-of-a-path-between-two-cities.cpp) |
 | 3286 | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | Medium | [cpp](solutions/3286-find-a-safe-walk-through-a-grid.cpp) |

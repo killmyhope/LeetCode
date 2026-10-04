@@ -1,6 +1,5 @@
 {
   "backfill_plan": {
-    "2168616242": "2026-10-04T16:42:49+0300",
     "2169520200": "2026-10-05T09:51:21+0300",
     "2170272842": "2026-10-06T12:34:03+0300",
     "2170323599": "2026-10-08T10:15:56+0300",
@@ -32,7 +31,8 @@
     "2164707818",
     "2165733029",
     "2166453787",
-    "2167661543"
+    "2167661543",
+    "2168616242"
   ],
   "solutions": {
     "add-strings": {
@@ -144,6 +144,16 @@
       "slug": "minimum-score-of-a-path-between-two-cities",
       "submission_id": "2055870124",
       "title": "Minimum Score of a Path Between Two Cities"
+    },
+    "minimum-sum-of-squared-difference": {
+      "commit_date": "2026-10-04T16:42:49+0300",
+      "difficulty": "Medium",
+      "frontend_id": "2333",
+      "lang": "cpp",
+      "path": "solutions/2333-minimum-sum-of-squared-difference.cpp",
+      "slug": "minimum-sum-of-squared-difference",
+      "submission_id": "2168616242",
+      "title": "Minimum Sum of Squared Difference"
     },
     "network-recovery-pathways": {
       "commit_date": "2026-09-25T11:26:58+0300",

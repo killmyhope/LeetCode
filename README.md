@@ -3,7 +3,7 @@
 <!-- leetcode-sync:start -->
 ## LeetCode solutions
 
-Solved problems: **25**
+Solved problems: **26**
 
 | # | Title | Difficulty | Code |
 | --- | --- | --- | --- |
@@ -28,6 +28,7 @@ Solved problems: **25**
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | [cpp](solutions/1021-remove-outermost-parentheses.cpp) |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Medium | [cpp](solutions/1541-minimum-insertions-to-balance-a-parentheses-string.cpp) |
 | 1861 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | Medium | [cpp](solutions/1861-rotating-the-box.cpp) |
+| 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | Medium | [cpp](solutions/2333-minimum-sum-of-squared-difference.cpp) |
 | 2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | Medium | [cpp](solutions/2492-minimum-score-of-a-path-between-two-cities.cpp) |
 | 3286 | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | Medium | [cpp](solutions/3286-find-a-safe-walk-through-a-grid.cpp) |
 | 3620 | [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/) | Hard | [cpp](solutions/3620-network-recovery-pathways.cpp) |

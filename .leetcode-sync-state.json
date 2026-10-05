@@ -1,6 +1,5 @@
 {
   "backfill_plan": {
-    "2169520200": "2026-10-05T09:51:21+0300",
     "2170272842": "2026-10-06T12:34:03+0300",
     "2170323599": "2026-10-08T10:15:56+0300",
     "2170329237": "2026-10-12T16:04:14+0300",
@@ -32,7 +31,8 @@
     "2165733029",
     "2166453787",
     "2167661543",
-    "2168616242"
+    "2168616242",
+    "2169520200"
   ],
   "solutions": {
     "add-strings": {
@@ -274,6 +274,16 @@
       "slug": "squares-of-a-sorted-array",
       "submission_id": "2052869231",
       "title": "Squares of a Sorted Array"
+    },
+    "sum-of-squares-of-special-elements": {
+      "commit_date": "2026-10-05T09:51:21+0300",
+      "difficulty": "Easy",
+      "frontend_id": "2778",
+      "lang": "cpp",
+      "path": "solutions/2778-sum-of-squares-of-special-elements.cpp",
+      "slug": "sum-of-squares-of-special-elements",
+      "submission_id": "2169520200",
+      "title": "Sum of Squares of Special Elements "
     },
     "two-sum": {
       "commit_date": "2026-09-28T16:10:30+0300",

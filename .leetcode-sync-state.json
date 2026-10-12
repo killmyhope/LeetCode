@@ -1,7 +1,5 @@
 {
-  "backfill_plan": {
-    "2170689498": "2026-10-12T19:00:09+0300"
-  },
+  "backfill_plan": {},
   "processed_submission_ids": [
     "1994987020",
     "1995838725",
@@ -32,7 +30,8 @@
     "2169520200",
     "2170272842",
     "2170323599",
-    "2170329237"
+    "2170329237",
+    "2170689498"
   ],
   "solutions": {
     "add-strings": {
@@ -124,6 +123,16 @@
       "slug": "longest-valid-parentheses",
       "submission_id": "2161070707",
       "title": "Longest Valid Parentheses"
+    },
+    "maximum-alternating-sum-of-squares": {
+      "commit_date": "2026-10-12T19:00:09+0300",
+      "difficulty": "Medium",
+      "frontend_id": "3727",
+      "lang": "cpp",
+      "path": "solutions/3727-maximum-alternating-sum-of-squares.cpp",
+      "slug": "maximum-alternating-sum-of-squares",
+      "submission_id": "2170689498",
+      "title": "Maximum Alternating Sum of Squares"
     },
     "merge-intervals": {
       "commit_date": "2026-09-21T17:22:53+0300",

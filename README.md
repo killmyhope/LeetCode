@@ -3,7 +3,7 @@
 <!-- leetcode-sync:start -->
 ## LeetCode solutions
 
-Solved problems: **30**
+Solved problems: **31**
 
 | # | Title | Difficulty | Code |
 | --- | --- | --- | --- |
@@ -37,4 +37,5 @@ Solved problems: **30**
 | 3286 | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | Medium | [cpp](solutions/3286-find-a-safe-walk-through-a-grid.cpp) |
 | 3620 | [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/) | Hard | [cpp](solutions/3620-network-recovery-pathways.cpp) |
 | 3660 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) | Medium | [cpp](solutions/3660-jump-game-ix.cpp) |
+| 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Medium | [cpp](solutions/3727-maximum-alternating-sum-of-squares.cpp) |
 <!-- leetcode-sync:end -->

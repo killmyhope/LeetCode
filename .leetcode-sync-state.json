@@ -1,6 +1,5 @@
 {
   "backfill_plan": {
-    "2170329237": "2026-10-12T16:04:14+0300",
     "2170689498": "2026-10-12T19:00:09+0300"
   },
   "processed_submission_ids": [
@@ -32,7 +31,8 @@
     "2168616242",
     "2169520200",
     "2170272842",
-    "2170323599"
+    "2170323599",
+    "2170329237"
   ],
   "solutions": {
     "add-strings": {
@@ -74,6 +74,16 @@
       "slug": "first-unique-character-in-a-string",
       "submission_id": "1995838725",
       "title": "First Unique Character in a String"
+    },
+    "generate-parentheses": {
+      "commit_date": "2026-10-12T16:04:14+0300",
+      "difficulty": "Medium",
+      "frontend_id": "22",
+      "lang": "cpp",
+      "path": "solutions/0022-generate-parentheses.cpp",
+      "slug": "generate-parentheses",
+      "submission_id": "2170329237",
+      "title": "Generate Parentheses"
     },
     "is-subsequence": {
       "commit_date": "2026-09-22T12:08:11+0300",

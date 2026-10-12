@@ -3,7 +3,7 @@
 <!-- leetcode-sync:start -->
 ## LeetCode solutions
 
-Solved problems: **29**
+Solved problems: **30**
 
 | # | Title | Difficulty | Code |
 | --- | --- | --- | --- |
@@ -12,6 +12,7 @@ Solved problems: **29**
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [cpp](solutions/0013-roman-to-integer.cpp) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [cpp](solutions/0014-longest-common-prefix.cpp) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [cpp](solutions/0020-valid-parentheses.cpp) |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [cpp](solutions/0022-generate-parentheses.cpp) |
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | [cpp](solutions/0032-longest-valid-parentheses.cpp) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [cpp](solutions/0056-merge-intervals.cpp) |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | [cpp](solutions/0234-palindrome-linked-list.cpp) |

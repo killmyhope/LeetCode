@@ -5,6 +5,8 @@
 
 Solved problems: **31**
 
+Easy: **15** | Medium: **12** | Hard: **4**
+
 | # | Title | Difficulty | Code |
 | --- | --- | --- | --- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [cpp](solutions/0001-two-sum.cpp) |

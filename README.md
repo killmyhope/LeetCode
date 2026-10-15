@@ -3,9 +3,9 @@
 <!-- leetcode-sync:start -->
 ## LeetCode solutions
 
-Solved problems: **32**
+Solved problems: **33**
 
-Easy: **15** | Medium: **13** | Hard: **4**
+Easy: **16** | Medium: **13** | Hard: **4**
 
 | # | Title | Difficulty | Code |
 | --- | --- | --- | --- |
@@ -36,6 +36,7 @@ Easy: **15** | Medium: **13** | Hard: **4**
 | 2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | Medium | [cpp](solutions/2492-minimum-score-of-a-path-between-two-cities.cpp) |
 | 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Easy | [cpp](solutions/2778-sum-of-squares-of-special-elements.cpp) |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | Hard | [cpp](solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares.cpp) |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | Easy | [cpp](solutions/2913-subarrays-distinct-element-sum-of-squares-i.cpp) |
 | 3286 | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | Medium | [cpp](solutions/3286-find-a-safe-walk-through-a-grid.cpp) |
 | 3620 | [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/) | Hard | [cpp](solutions/3620-network-recovery-pathways.cpp) |
 | 3660 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) | Medium | [cpp](solutions/3660-jump-game-ix.cpp) |

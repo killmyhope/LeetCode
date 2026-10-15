@@ -32,7 +32,8 @@
     "2170323599",
     "2170329237",
     "2170689498",
-    "2172503017"
+    "2172503017",
+    "2173075487"
   ],
   "solutions": {
     "add-strings": {
@@ -314,6 +315,16 @@
       "slug": "squares-of-a-sorted-array",
       "submission_id": "2052869231",
       "title": "Squares of a Sorted Array"
+    },
+    "subarrays-distinct-element-sum-of-squares-i": {
+      "commit_date": "2026-10-15T23:05:22+0300",
+      "difficulty": "Easy",
+      "frontend_id": "2913",
+      "lang": "cpp",
+      "path": "solutions/2913-subarrays-distinct-element-sum-of-squares-i.cpp",
+      "slug": "subarrays-distinct-element-sum-of-squares-i",
+      "submission_id": "2173075487",
+      "title": "Subarrays Distinct Element Sum of Squares I"
     },
     "sum-of-squares-of-special-elements": {
       "commit_date": "2026-10-05T09:51:21+0300",

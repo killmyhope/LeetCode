@@ -3,9 +3,9 @@
 <!-- leetcode-sync:start -->
 ## LeetCode solutions
 
-Solved problems: **31**
+Solved problems: **32**
 
-Easy: **15** | Medium: **12** | Hard: **4**
+Easy: **15** | Medium: **13** | Hard: **4**
 
 | # | Title | Difficulty | Code |
 | --- | --- | --- | --- |
@@ -39,5 +39,6 @@ Easy: **15** | Medium: **12** | Hard: **4**
 | 3286 | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | Medium | [cpp](solutions/3286-find-a-safe-walk-through-a-grid.cpp) |
 | 3620 | [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/) | Hard | [cpp](solutions/3620-network-recovery-pathways.cpp) |
 | 3660 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) | Medium | [cpp](solutions/3660-jump-game-ix.cpp) |
+| 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | Medium | [cpp](solutions/3723-maximize-sum-of-squares-of-digits.cpp) |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Medium | [cpp](solutions/3727-maximum-alternating-sum-of-squares.cpp) |
 <!-- leetcode-sync:end -->

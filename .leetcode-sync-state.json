@@ -31,7 +31,8 @@
     "2170272842",
     "2170323599",
     "2170329237",
-    "2170689498"
+    "2170689498",
+    "2172503017"
   ],
   "solutions": {
     "add-strings": {
@@ -123,6 +124,16 @@
       "slug": "longest-valid-parentheses",
       "submission_id": "2161070707",
       "title": "Longest Valid Parentheses"
+    },
+    "maximize-sum-of-squares-of-digits": {
+      "commit_date": "2026-10-15T23:05:22+0300",
+      "difficulty": "Medium",
+      "frontend_id": "3723",
+      "lang": "cpp",
+      "path": "solutions/3723-maximize-sum-of-squares-of-digits.cpp",
+      "slug": "maximize-sum-of-squares-of-digits",
+      "submission_id": "2172503017",
+      "title": "Maximize Sum of Squares of Digits"
     },
     "maximum-alternating-sum-of-squares": {
       "commit_date": "2026-10-12T19:00:09+0300",

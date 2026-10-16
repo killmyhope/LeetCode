@@ -33,7 +33,8 @@
     "2170329237",
     "2170689498",
     "2172503017",
-    "2173075487"
+    "2173075487",
+    "2173813223"
   ],
   "solutions": {
     "add-strings": {
@@ -325,6 +326,16 @@
       "slug": "subarrays-distinct-element-sum-of-squares-i",
       "submission_id": "2173075487",
       "title": "Subarrays Distinct Element Sum of Squares I"
+    },
+    "subarrays-distinct-element-sum-of-squares-ii": {
+      "commit_date": "2026-10-16T22:19:41+0300",
+      "difficulty": "Hard",
+      "frontend_id": "2916",
+      "lang": "cpp",
+      "path": "solutions/2916-subarrays-distinct-element-sum-of-squares-ii.cpp",
+      "slug": "subarrays-distinct-element-sum-of-squares-ii",
+      "submission_id": "2173813223",
+      "title": "Subarrays Distinct Element Sum of Squares II"
     },
     "sum-of-squares-of-special-elements": {
       "commit_date": "2026-10-05T09:51:21+0300",

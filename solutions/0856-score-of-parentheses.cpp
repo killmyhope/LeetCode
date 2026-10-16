@@ -1,6 +1,6 @@
 // 856. Score of Parentheses [Medium] 
 // https://leetcode.com/problems/score-of-parentheses/ 
-// Accepted submission: 2162856645; language: cpp 
+// Accepted submission: 2174192580; language: cpp 
 // Problem statement (HTML): 
 // <p>Given a balanced parentheses string <code>s</code>, return <em>the <strong>score</strong> of the string</em>.</p> 
 //  
@@ -43,4 +43,21 @@
 // 	<li><code>s</code> is a balanced parentheses string.</li> 
 // </ul> 
 
-class Solution {public:int scoreOfParentheses(string s) {stack<int> st;st.push(0);int n=s.size();for (int i =0;i<n;i++) {if (s[i]=='(') st.push(0);else if (s[i]==')'&&!st.empty()) {int temp = st.top();st.pop();temp==0?st.top()+=1 : st.top()+=temp*2;}} return st.top();}};
+class Solution {
+public:
+    int scoreOfParentheses(string s) {
+        stack<int> st;
+        st.push(0);
+        int n = s.size();
+        for (int i = 0; i < n; i++) {
+            if (s[i] == '(')
+                st.push(0);
+            else if (s[i] == ')' && !st.empty()) {
+                int temp = st.top();
+                st.pop();
+                temp == 0 ? st.top() += 1 : st.top() += temp * 2;
+            }
+        }
+        return st.top();
+    }
+};

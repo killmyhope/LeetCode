@@ -1,5 +1,12 @@
 {
-  "backfill_plan": {},
+  "backfill_plan": {
+    "2174819991": "2026-10-17T11:46:40+0300",
+    "2175702426": "2026-10-18T13:40:44+0300",
+    "2175970643": "2026-10-19T13:52:12+0300",
+    "2177090487": "2026-10-20T17:22:41+0300",
+    "2178529347": "2026-10-21T09:08:39+0300",
+    "2178530910": "2026-10-21T16:40:23+0300"
+  },
   "processed_submission_ids": [
     "1994987020",
     "1995838725",
@@ -34,7 +41,8 @@
     "2170689498",
     "2172503017",
     "2173075487",
-    "2173813223"
+    "2173813223",
+    "2174192580"
   ],
   "solutions": {
     "add-strings": {
@@ -298,13 +306,13 @@
       "title": "Rotating the Box"
     },
     "score-of-parentheses": {
-      "commit_date": "2026-09-30T17:00:07+0300",
+      "commit_date": "2026-10-16T13:54:24+0300",
       "difficulty": "Medium",
       "frontend_id": "856",
       "lang": "cpp",
       "path": "solutions/0856-score-of-parentheses.cpp",
       "slug": "score-of-parentheses",
-      "submission_id": "2162856645",
+      "submission_id": "2174192580",
       "title": "Score of Parentheses"
     },
     "squares-of-a-sorted-array": {

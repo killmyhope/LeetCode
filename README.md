@@ -3,9 +3,9 @@
 <!-- leetcode-sync:start -->
 ## LeetCode solutions
 
-Solved problems: **34**
+Solved problems: **35**
 
-Easy: **16** | Medium: **13** | Hard: **5**
+Easy: **16** | Medium: **14** | Hard: **5**
 
 | # | Title | Difficulty | Code |
 | --- | --- | --- | --- |
@@ -39,6 +39,7 @@ Easy: **16** | Medium: **13** | Hard: **5**
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | Easy | [cpp](solutions/2913-subarrays-distinct-element-sum-of-squares-i.cpp) |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | Hard | [cpp](solutions/2916-subarrays-distinct-element-sum-of-squares-ii.cpp) |
 | 3286 | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | Medium | [cpp](solutions/3286-find-a-safe-walk-through-a-grid.cpp) |
+| 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | Medium | [cpp](solutions/3551-minimum-swaps-to-sort-by-digit-sum.cpp) |
 | 3620 | [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/) | Hard | [cpp](solutions/3620-network-recovery-pathways.cpp) |
 | 3660 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) | Medium | [cpp](solutions/3660-jump-game-ix.cpp) |
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | Medium | [cpp](solutions/3723-maximize-sum-of-squares-of-digits.cpp) |

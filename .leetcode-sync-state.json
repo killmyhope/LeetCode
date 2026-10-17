@@ -1,6 +1,5 @@
 {
   "backfill_plan": {
-    "2174819991": "2026-10-17T11:46:40+0300",
     "2175702426": "2026-10-18T13:40:44+0300",
     "2175970643": "2026-10-19T13:52:12+0300",
     "2177090487": "2026-10-20T17:22:41+0300",
@@ -42,7 +41,8 @@
     "2172503017",
     "2173075487",
     "2173813223",
-    "2174192580"
+    "2174192580",
+    "2174819991"
   ],
   "solutions": {
     "add-strings": {
@@ -204,6 +204,16 @@
       "slug": "minimum-sum-of-squared-difference",
       "submission_id": "2168616242",
       "title": "Minimum Sum of Squared Difference"
+    },
+    "minimum-swaps-to-sort-by-digit-sum": {
+      "commit_date": "2026-10-17T11:46:40+0300",
+      "difficulty": "Medium",
+      "frontend_id": "3551",
+      "lang": "cpp",
+      "path": "solutions/3551-minimum-swaps-to-sort-by-digit-sum.cpp",
+      "slug": "minimum-swaps-to-sort-by-digit-sum",
+      "submission_id": "2174819991",
+      "title": "Minimum Swaps to Sort by Digit Sum"
     },
     "network-recovery-pathways": {
       "commit_date": "2026-09-25T11:26:58+0300",

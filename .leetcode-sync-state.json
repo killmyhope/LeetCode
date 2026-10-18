@@ -1,6 +1,5 @@
 {
   "backfill_plan": {
-    "2175702426": "2026-10-18T13:40:44+0300",
     "2175970643": "2026-10-19T13:52:12+0300",
     "2177090487": "2026-10-20T17:22:41+0300",
     "2178529347": "2026-10-21T09:08:39+0300",
@@ -42,7 +41,8 @@
     "2173075487",
     "2173813223",
     "2174192580",
-    "2174819991"
+    "2174819991",
+    "2175702426"
   ],
   "solutions": {
     "add-strings": {
@@ -224,6 +224,16 @@
       "slug": "network-recovery-pathways",
       "submission_id": "2054865999",
       "title": "Network Recovery Pathways"
+    },
+    "number-of-ways-to-reorder-array-to-get-same-bst": {
+      "commit_date": "2026-10-18T13:40:44+0300",
+      "difficulty": "Hard",
+      "frontend_id": "1569",
+      "lang": "cpp",
+      "path": "solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.cpp",
+      "slug": "number-of-ways-to-reorder-array-to-get-same-bst",
+      "submission_id": "2175702426",
+      "title": "Number of Ways to Reorder Array to Get Same BST"
     },
     "palindrome-linked-list": {
       "commit_date": "2026-09-15T12:17:43+0300",

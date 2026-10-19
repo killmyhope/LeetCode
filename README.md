@@ -3,9 +3,9 @@
 <!-- leetcode-sync:start -->
 ## LeetCode solutions
 
-Solved problems: **36**
+Solved problems: **37**
 
-Easy: **16** | Medium: **14** | Hard: **6**
+Easy: **17** | Medium: **14** | Hard: **6**
 
 | # | Title | Difficulty | Code |
 | --- | --- | --- | --- |
@@ -33,6 +33,7 @@ Easy: **16** | Medium: **14** | Hard: **6**
 | 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Medium | [cpp](solutions/1541-minimum-insertions-to-balance-a-parentheses-string.cpp) |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | Hard | [cpp](solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.cpp) |
 | 1861 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | Medium | [cpp](solutions/1861-rotating-the-box.cpp) |
+| 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | [cpp](solutions/2089-find-target-indices-after-sorting-array.cpp) |
 | 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | Medium | [cpp](solutions/2333-minimum-sum-of-squared-difference.cpp) |
 | 2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | Medium | [cpp](solutions/2492-minimum-score-of-a-path-between-two-cities.cpp) |
 | 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Easy | [cpp](solutions/2778-sum-of-squares-of-special-elements.cpp) |

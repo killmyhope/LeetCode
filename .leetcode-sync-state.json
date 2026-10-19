@@ -1,6 +1,5 @@
 {
   "backfill_plan": {
-    "2175970643": "2026-10-19T13:52:12+0300",
     "2177090487": "2026-10-20T17:22:41+0300",
     "2178529347": "2026-10-21T09:08:39+0300",
     "2178530910": "2026-10-21T16:40:23+0300"
@@ -42,7 +41,8 @@
     "2173813223",
     "2174192580",
     "2174819991",
-    "2175702426"
+    "2175702426",
+    "2175970643"
   ],
   "solutions": {
     "add-strings": {
@@ -74,6 +74,16 @@
       "slug": "find-a-safe-walk-through-a-grid",
       "submission_id": "2054605206",
       "title": "Find a Safe Walk Through a Grid"
+    },
+    "find-target-indices-after-sorting-array": {
+      "commit_date": "2026-10-19T13:52:12+0300",
+      "difficulty": "Easy",
+      "frontend_id": "2089",
+      "lang": "cpp",
+      "path": "solutions/2089-find-target-indices-after-sorting-array.cpp",
+      "slug": "find-target-indices-after-sorting-array",
+      "submission_id": "2175970643",
+      "title": "Find Target Indices After Sorting Array"
     },
     "first-unique-character-in-a-string": {
       "commit_date": "2026-09-15T17:00:36+0300",

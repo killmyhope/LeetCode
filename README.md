@@ -3,9 +3,9 @@
 <!-- leetcode-sync:start -->
 ## LeetCode solutions
 
-Solved problems: **37**
+Solved problems: **38**
 
-Easy: **17** | Medium: **14** | Hard: **6**
+Easy: **17** | Medium: **14** | Hard: **7**
 
 | # | Title | Difficulty | Code |
 | --- | --- | --- | --- |
@@ -46,4 +46,5 @@ Easy: **17** | Medium: **14** | Hard: **6**
 | 3660 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) | Medium | [cpp](solutions/3660-jump-game-ix.cpp) |
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | Medium | [cpp](solutions/3723-maximize-sum-of-squares-of-digits.cpp) |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Medium | [cpp](solutions/3727-maximum-alternating-sum-of-squares.cpp) |
+| 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | Hard | [cpp](solutions/3886-sum-of-sortable-integers.cpp) |
 <!-- leetcode-sync:end -->

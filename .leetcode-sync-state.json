@@ -1,6 +1,5 @@
 {
   "backfill_plan": {
-    "2178529347": "2026-10-21T09:08:39+0300",
     "2178530910": "2026-10-21T16:40:23+0300"
   },
   "processed_submission_ids": [
@@ -42,7 +41,8 @@
     "2174819991",
     "2175702426",
     "2175970643",
-    "2177090487"
+    "2177090487",
+    "2178529347"
   ],
   "solutions": {
     "add-strings": {
@@ -194,6 +194,16 @@
       "slug": "minimum-insertions-to-balance-a-parentheses-string",
       "submission_id": "2167661543",
       "title": "Minimum Insertions to Balance a Parentheses String"
+    },
+    "minimum-operations-to-sort-a-permutation": {
+      "commit_date": "2026-10-21T09:08:39+0300",
+      "difficulty": "Medium",
+      "frontend_id": "3942",
+      "lang": "cpp",
+      "path": "solutions/3942-minimum-operations-to-sort-a-permutation.cpp",
+      "slug": "minimum-operations-to-sort-a-permutation",
+      "submission_id": "2178529347",
+      "title": "Minimum Operations to Sort a Permutation"
     },
     "minimum-score-of-a-path-between-two-cities": {
       "commit_date": "2026-09-27T20:17:15+0300",

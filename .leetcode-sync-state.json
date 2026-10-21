@@ -1,7 +1,5 @@
 {
-  "backfill_plan": {
-    "2178530910": "2026-10-21T16:40:23+0300"
-  },
+  "backfill_plan": {},
   "processed_submission_ids": [
     "1994987020",
     "1995838725",
@@ -42,7 +40,8 @@
     "2175702426",
     "2175970643",
     "2177090487",
-    "2178529347"
+    "2178529347",
+    "2178530910"
   ],
   "solutions": {
     "add-strings": {
@@ -204,6 +203,16 @@
       "slug": "minimum-operations-to-sort-a-permutation",
       "submission_id": "2178529347",
       "title": "Minimum Operations to Sort a Permutation"
+    },
+    "minimum-operations-to-sort-a-string": {
+      "commit_date": "2026-10-21T16:40:23+0300",
+      "difficulty": "Medium",
+      "frontend_id": "3863",
+      "lang": "cpp",
+      "path": "solutions/3863-minimum-operations-to-sort-a-string.cpp",
+      "slug": "minimum-operations-to-sort-a-string",
+      "submission_id": "2178530910",
+      "title": "Minimum Operations to Sort a String"
     },
     "minimum-score-of-a-path-between-two-cities": {
       "commit_date": "2026-09-27T20:17:15+0300",

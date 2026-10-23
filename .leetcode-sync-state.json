@@ -41,7 +41,8 @@
     "2175970643",
     "2177090487",
     "2178529347",
-    "2178530910"
+    "2178530910",
+    "2179487330"
   ],
   "solutions": {
     "add-strings": {
@@ -163,6 +164,16 @@
       "slug": "maximum-alternating-sum-of-squares",
       "submission_id": "2170689498",
       "title": "Maximum Alternating Sum of Squares"
+    },
+    "maximum-k-to-sort-a-permutation": {
+      "commit_date": "2026-10-23T11:19:37+0300",
+      "difficulty": "Medium",
+      "frontend_id": "3644",
+      "lang": "cpp",
+      "path": "solutions/3644-maximum-k-to-sort-a-permutation.cpp",
+      "slug": "maximum-k-to-sort-a-permutation",
+      "submission_id": "2179487330",
+      "title": "Maximum K to Sort a Permutation"
     },
     "merge-intervals": {
       "commit_date": "2026-09-21T17:22:53+0300",

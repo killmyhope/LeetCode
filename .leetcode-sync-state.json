@@ -42,7 +42,8 @@
     "2177090487",
     "2178529347",
     "2178530910",
-    "2179487330"
+    "2179487330",
+    "2180185422"
   ],
   "solutions": {
     "add-strings": {
@@ -64,6 +65,16 @@
       "slug": "apply-operations-on-array-to-maximize-sum-of-squares",
       "submission_id": "2170272842",
       "title": "Apply Operations on Array to Maximize Sum of Squares"
+    },
+    "count-days-spent-together": {
+      "commit_date": "2026-10-24T09:03:26+0300",
+      "difficulty": "Easy",
+      "frontend_id": "2409",
+      "lang": "cpp",
+      "path": "solutions/2409-count-days-spent-together.cpp",
+      "slug": "count-days-spent-together",
+      "submission_id": "2180185422",
+      "title": "Count Days Spent Together"
     },
     "find-a-safe-walk-through-a-grid": {
       "commit_date": "2026-09-22T13:09:06+0300",

@@ -3,9 +3,9 @@
 <!-- leetcode-sync:start -->
 ## LeetCode solutions
 
-Solved problems: **41**
+Solved problems: **42**
 
-Easy: **17** | Medium: **17** | Hard: **7**
+Easy: **18** | Medium: **17** | Hard: **7**
 
 | # | Title | Difficulty | Code |
 | --- | --- | --- | --- |
@@ -35,6 +35,7 @@ Easy: **17** | Medium: **17** | Hard: **7**
 | 1861 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | Medium | [cpp](solutions/1861-rotating-the-box.cpp) |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | [cpp](solutions/2089-find-target-indices-after-sorting-array.cpp) |
 | 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | Medium | [cpp](solutions/2333-minimum-sum-of-squared-difference.cpp) |
+| 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | Easy | [cpp](solutions/2409-count-days-spent-together.cpp) |
 | 2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | Medium | [cpp](solutions/2492-minimum-score-of-a-path-between-two-cities.cpp) |
 | 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Easy | [cpp](solutions/2778-sum-of-squares-of-special-elements.cpp) |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | Hard | [cpp](solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares.cpp) |

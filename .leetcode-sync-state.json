@@ -43,7 +43,8 @@
     "2178529347",
     "2178530910",
     "2179487330",
-    "2180185422"
+    "2180185422",
+    "2181450724"
   ],
   "solutions": {
     "add-strings": {
@@ -275,6 +276,16 @@
       "slug": "network-recovery-pathways",
       "submission_id": "2054865999",
       "title": "Network Recovery Pathways"
+    },
+    "number-of-closed-islands": {
+      "commit_date": "2026-10-25T17:14:52+0300",
+      "difficulty": "Medium",
+      "frontend_id": "1254",
+      "lang": "cpp",
+      "path": "solutions/1254-number-of-closed-islands.cpp",
+      "slug": "number-of-closed-islands",
+      "submission_id": "2181450724",
+      "title": "Number of Closed Islands"
     },
     "number-of-ways-to-reorder-array-to-get-same-bst": {
       "commit_date": "2026-10-18T13:40:44+0300",

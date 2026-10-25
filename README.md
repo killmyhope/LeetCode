@@ -3,9 +3,9 @@
 <!-- leetcode-sync:start -->
 ## LeetCode solutions
 
-Solved problems: **42**
+Solved problems: **43**
 
-Easy: **18** | Medium: **17** | Hard: **7**
+Easy: **18** | Medium: **18** | Hard: **7**
 
 | # | Title | Difficulty | Code |
 | --- | --- | --- | --- |
@@ -30,6 +30,7 @@ Easy: **18** | Medium: **17** | Hard: **7**
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | Easy | [cpp](solutions/0938-range-sum-of-bst.cpp) |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | [cpp](solutions/0977-squares-of-a-sorted-array.cpp) |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | [cpp](solutions/1021-remove-outermost-parentheses.cpp) |
+| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | Medium | [cpp](solutions/1254-number-of-closed-islands.cpp) |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Medium | [cpp](solutions/1541-minimum-insertions-to-balance-a-parentheses-string.cpp) |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | Hard | [cpp](solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.cpp) |
 | 1861 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | Medium | [cpp](solutions/1861-rotating-the-box.cpp) |

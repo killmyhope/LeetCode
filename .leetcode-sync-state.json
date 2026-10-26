@@ -44,7 +44,8 @@
     "2178530910",
     "2179487330",
     "2180185422",
-    "2181450724"
+    "2181450724",
+    "2182484652"
   ],
   "solutions": {
     "add-strings": {
@@ -76,6 +77,16 @@
       "slug": "count-days-spent-together",
       "submission_id": "2180185422",
       "title": "Count Days Spent Together"
+    },
+    "count-islands-with-total-value-divisible-by-k": {
+      "commit_date": "2026-10-26T20:53:01+0300",
+      "difficulty": "Medium",
+      "frontend_id": "3619",
+      "lang": "cpp",
+      "path": "solutions/3619-count-islands-with-total-value-divisible-by-k.cpp",
+      "slug": "count-islands-with-total-value-divisible-by-k",
+      "submission_id": "2182484652",
+      "title": "Count Islands With Total Value Divisible by K"
     },
     "find-a-safe-walk-through-a-grid": {
       "commit_date": "2026-09-22T13:09:06+0300",

@@ -3,9 +3,9 @@
 <!-- leetcode-sync:start -->
 ## LeetCode solutions
 
-Solved problems: **43**
+Solved problems: **44**
 
-Easy: **18** | Medium: **18** | Hard: **7**
+Easy: **18** | Medium: **19** | Hard: **7**
 
 | # | Title | Difficulty | Code |
 | --- | --- | --- | --- |
@@ -44,6 +44,7 @@ Easy: **18** | Medium: **18** | Hard: **7**
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | Hard | [cpp](solutions/2916-subarrays-distinct-element-sum-of-squares-ii.cpp) |
 | 3286 | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | Medium | [cpp](solutions/3286-find-a-safe-walk-through-a-grid.cpp) |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | Medium | [cpp](solutions/3551-minimum-swaps-to-sort-by-digit-sum.cpp) |
+| 3619 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | Medium | [cpp](solutions/3619-count-islands-with-total-value-divisible-by-k.cpp) |
 | 3620 | [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/) | Hard | [cpp](solutions/3620-network-recovery-pathways.cpp) |
 | 3644 | [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | Medium | [cpp](solutions/3644-maximum-k-to-sort-a-permutation.cpp) |
 | 3660 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) | Medium | [cpp](solutions/3660-jump-game-ix.cpp) |

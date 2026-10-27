@@ -3,9 +3,9 @@
 <!-- leetcode-sync:start -->
 ## LeetCode solutions
 
-Solved problems: **44**
+Solved problems: **45**
 
-Easy: **18** | Medium: **19** | Hard: **7**
+Easy: **19** | Medium: **19** | Hard: **7**
 
 | # | Title | Difficulty | Code |
 | --- | --- | --- | --- |
@@ -53,4 +53,5 @@ Easy: **18** | Medium: **19** | Hard: **7**
 | 3863 | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Medium | [cpp](solutions/3863-minimum-operations-to-sort-a-string.cpp) |
 | 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | Hard | [cpp](solutions/3886-sum-of-sortable-integers.cpp) |
 | 3942 | [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | Medium | [cpp](solutions/3942-minimum-operations-to-sort-a-permutation.cpp) |
+| 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Easy | [cpp](solutions/3963-create-grid-with-exactly-one-path.cpp) |
 <!-- leetcode-sync:end -->

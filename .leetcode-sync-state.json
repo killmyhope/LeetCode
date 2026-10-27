@@ -45,7 +45,8 @@
     "2179487330",
     "2180185422",
     "2181450724",
-    "2182484652"
+    "2182484652",
+    "2182984325"
   ],
   "solutions": {
     "add-strings": {
@@ -87,6 +88,16 @@
       "slug": "count-islands-with-total-value-divisible-by-k",
       "submission_id": "2182484652",
       "title": "Count Islands With Total Value Divisible by K"
+    },
+    "create-grid-with-exactly-one-path": {
+      "commit_date": "2026-10-27T13:13:55+0300",
+      "difficulty": "Easy",
+      "frontend_id": "3963",
+      "lang": "cpp",
+      "path": "solutions/3963-create-grid-with-exactly-one-path.cpp",
+      "slug": "create-grid-with-exactly-one-path",
+      "submission_id": "2182984325",
+      "title": "Create Grid With Exactly One Path"
     },
     "find-a-safe-walk-through-a-grid": {
       "commit_date": "2026-09-22T13:09:06+0300",

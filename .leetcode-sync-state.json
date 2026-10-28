@@ -46,7 +46,8 @@
     "2180185422",
     "2181450724",
     "2182484652",
-    "2182984325"
+    "2182984325",
+    "2183535351"
   ],
   "solutions": {
     "add-strings": {
@@ -288,6 +289,16 @@
       "slug": "minimum-swaps-to-sort-by-digit-sum",
       "submission_id": "2174819991",
       "title": "Minimum Swaps to Sort by Digit Sum"
+    },
+    "minimum-xor-path-in-a-grid": {
+      "commit_date": "2026-10-28T05:22:27+0300",
+      "difficulty": "Medium",
+      "frontend_id": "3882",
+      "lang": "cpp",
+      "path": "solutions/3882-minimum-xor-path-in-a-grid.cpp",
+      "slug": "minimum-xor-path-in-a-grid",
+      "submission_id": "2183535351",
+      "title": "Minimum XOR Path in a Grid"
     },
     "network-recovery-pathways": {
       "commit_date": "2026-09-25T11:26:58+0300",

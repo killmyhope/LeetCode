@@ -3,9 +3,9 @@
 <!-- leetcode-sync:start -->
 ## LeetCode solutions
 
-Solved problems: **46**
+Solved problems: **47**
 
-Easy: **19** | Medium: **20** | Hard: **7**
+Easy: **19** | Medium: **20** | Hard: **8**
 
 | # | Title | Difficulty | Code |
 | --- | --- | --- | --- |
@@ -50,6 +50,7 @@ Easy: **19** | Medium: **20** | Hard: **7**
 | 3660 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) | Medium | [cpp](solutions/3660-jump-game-ix.cpp) |
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | Medium | [cpp](solutions/3723-maximize-sum-of-squares-of-digits.cpp) |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Medium | [cpp](solutions/3727-maximum-alternating-sum-of-squares.cpp) |
+| 3841 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | Hard | [cpp](solutions/3841-palindromic-path-queries-in-a-tree.cpp) |
 | 3863 | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Medium | [cpp](solutions/3863-minimum-operations-to-sort-a-string.cpp) |
 | 3882 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | Medium | [cpp](solutions/3882-minimum-xor-path-in-a-grid.cpp) |
 | 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | Hard | [cpp](solutions/3886-sum-of-sortable-integers.cpp) |

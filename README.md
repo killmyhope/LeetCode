@@ -3,9 +3,9 @@
 <!-- leetcode-sync:start -->
 ## LeetCode solutions
 
-Solved problems: **47**
+Solved problems: **48**
 
-Easy: **19** | Medium: **20** | Hard: **8**
+Easy: **19** | Medium: **21** | Hard: **8**
 
 | # | Title | Difficulty | Code |
 | --- | --- | --- | --- |
@@ -56,4 +56,5 @@ Easy: **19** | Medium: **20** | Hard: **8**
 | 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | Hard | [cpp](solutions/3886-sum-of-sortable-integers.cpp) |
 | 3942 | [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | Medium | [cpp](solutions/3942-minimum-operations-to-sort-a-permutation.cpp) |
 | 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Easy | [cpp](solutions/3963-create-grid-with-exactly-one-path.cpp) |
+| 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium | [cpp](solutions/3970-shortest-path-with-at-most-k-consecutive-identical-characters.cpp) |
 <!-- leetcode-sync:end -->

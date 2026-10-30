@@ -48,7 +48,8 @@
     "2182484652",
     "2182984325",
     "2183535351",
-    "2184688084"
+    "2184688084",
+    "2185143151"
   ],
   "solutions": {
     "add-strings": {
@@ -440,6 +441,16 @@
       "slug": "score-of-parentheses",
       "submission_id": "2174192580",
       "title": "Score of Parentheses"
+    },
+    "shortest-path-with-at-most-k-consecutive-identical-characters": {
+      "commit_date": "2026-10-30T04:49:31+0300",
+      "difficulty": "Medium",
+      "frontend_id": "3970",
+      "lang": "cpp",
+      "path": "solutions/3970-shortest-path-with-at-most-k-consecutive-identical-characters.cpp",
+      "slug": "shortest-path-with-at-most-k-consecutive-identical-characters",
+      "submission_id": "2185143151",
+      "title": "Shortest Path With At Most K Consecutive Identical Characters"
     },
     "squares-of-a-sorted-array": {
       "commit_date": "2026-09-22T11:39:43+0300",
